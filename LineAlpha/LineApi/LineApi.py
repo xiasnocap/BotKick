@@ -23,7 +23,7 @@ class LineApi(object):
     _thriftProtocol = None
     isLogin = False
     revision = None
-    authToken = ""
+    authToken = "robertghanim582@icloud.com","36091vwz"
     certificate = ""
 
     def __init__(self):
